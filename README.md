@@ -6,7 +6,7 @@ A responsive online store project. Live demo available at: https://eliiikhodayii
 
 Here is a preview of the live project:
 
-![Live Project Preview](images/screencapture-eliiikhodayiii-png-github-io-first-project-2026-06-14-00_58_08.png)
+![Live Project Preview](img/12s.png)
 
 You can visit the live site here: [Visit Live Site](https://eliiikhodayiii-png.github.io/first-project/)
 
@@ -25,3 +25,4 @@ You can visit the live site here: [Visit Live Site](https://eliiikhodayiii-png.g
 ## How to Use:
 1.  Clone the repository.
 2.  Open the `index.html` file in your browser.
+
