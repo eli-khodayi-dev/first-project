@@ -7,9 +7,22 @@ A responsive online store project. Live demo available at: https://eliiikhodayii
 
 Here is a preview of the live project:
 
-![Live Project Preview](https://s3.thr1.sotoon.ir/media-fast-1/user_files/2564e490-8628-4899-9398-257fd2bcbcd0.webp)
+![Live Project Preview](https://s3.thr1.sotoon.ir/media-fast-1/user_files/ca1ee6f8-aa6a-418d-ab57-3b3b6e5fd384.png)
 
-You can also visit the live site here: [Visit Live Site](https://eliiikhodayiii-png.github.io/first-project/)
+You can visit the live site here: [Visit Live Site](https://eliiikhodayiii-png.github.io/first-project/)
 
 ---
-(بقیه توضیحات پروژه...)
+
+## Features:
+*   Responsive design for various screen sizes.
+*   Clean and attractive UI.
+*   (Add any other specific features you implemented, e.g., product display, navigation, etc.)
+
+## Technologies Used:
+*   HTML
+*   CSS
+*   JavaScript
+
+## How to Use:
+1.  Clone the repository.
+2.  Open the `index.html` file in your browser.
