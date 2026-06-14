@@ -6,9 +6,7 @@ A responsive online store project. Live demo available at: https://eliiikhodayii
 
 Here is a preview of the live project:
 
-<a href="https://eliiikhodayiii-png.github.io/first-project/" target="_blank" style="display: block; width: 400px; height: 400px; overflow: hidden;">
-  <img src="img/12s.png" alt="Live Project Preview" style="width: 100%; height: 100%; object-fit: cover;">
-</a>
+![Live Project Preview](img/12s.png)
 
 You can visit the live site here: [Visit Live Site](https://eliiikhodayiii-png.github.io/first-project/)
 
