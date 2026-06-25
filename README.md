@@ -11,7 +11,7 @@ The design is built with a focus on simplicity and user experience. I chose a pr
 
 ## 🔗 Live Demo
 You can view the live version of my project here:
-[https://eliiikhodayiii-png.github.io/first-project/](https://eli-khodayi-dev.github.io/first-project/)
+[https://eli-khodayi-dev.github.io/first-project/](https://eli-khodayi-dev.github.io/first-project/)
 
 ## 📸 Preview
 ![Project Screenshot](img/12s.png)
